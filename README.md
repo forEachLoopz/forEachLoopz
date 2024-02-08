@@ -33,5 +33,5 @@ Let me introduce myself !
 
 ![LinuxSafeRent Calendar Screenshot](/home/goupil/Téléchargements/Capture d’écran du 2024-02-08 10-18-23.png)
 
-##### I made a tool for renters. It locks a Linux Mint session when the rental expires:closed_lock_with_key:.
+##### I made a tool for renters. It locks a Linux Mint session when the rental expires :closed_lock_with_key:.
 
