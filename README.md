@@ -19,9 +19,9 @@ Let me introduce myself !
 
 ##### Cleanux
 
-```text
-[Cleanux on GitHub](https://github.com/forEachLoopz/cleanux)
-```
+
+![Cleanux on GitHub](https://github.com/forEachLoopz/cleanux)
+
 
 ![Cleanux Screenshot](/screens/cleanuxui.png)
 
