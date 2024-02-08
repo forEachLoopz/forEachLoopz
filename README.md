@@ -23,7 +23,7 @@ Let me introduce myself !
 [Cleanux on GitHub](https://github.com/forEachLoopz/cleanux)
 ```
 
-![Cleanux Screenshot](Capture d’écran du 2024-02-08 10-01-15.png)
+![Cleanux Screenshot](/screens/Capture d’écran du 2024-02-08 10-01-15.png)
 
 ##### I made this program for cleaning Linux disks. The UI was in Python and the functional part was in Bash.
 
@@ -31,7 +31,7 @@ Let me introduce myself !
 
 ![LinuxSafeRent on GitHub](https://github.com/forEachLoopz/LinuxSafeRent)
 
-![LinuxSafeRent Calendar Screenshot](Capture d’écran du 2024-02-08 10-18-23.png)
+![LinuxSafeRent Calendar Screenshot](/screens/Capture d’écran du 2024-02-08 10-18-23.png)
 
 ##### I made a tool for renters. It locks a Linux Mint session when a date comes out.
 
